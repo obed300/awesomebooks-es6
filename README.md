@@ -10,7 +10,7 @@
 
 ## Live Demo
 
-https://sergskol.github.io/portfolio
+https://obed300.github.io/awesomebooks-es6/
 
 ## Getting Started
 
@@ -18,9 +18,8 @@ Follow the link above to open web page
 
 ## Author
 
-- GitHub: [@SergSkol](https://github.com/SergSkol)
-- Twitter: [@sps676](https://twitter.com/sps676)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sergiy-shkolnik-7801a53/)
+- GitHub: [@obed300](https://github.com/obed300?tab=repositories)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/obed-bamfo-4b152421b/)
 
 ## 🤝 Contributing
 
