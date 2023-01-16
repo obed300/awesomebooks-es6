@@ -36,7 +36,7 @@ window.onload = () => {
     document.location.reload(true);
   });
 
-  listclick.addEventListener('click', function(e){
+  listclick.addEventListener('click', (e) => {
     e.preventDefault();
      listings.style.display = 'block';
      form.style.display = 'none';
@@ -44,21 +44,21 @@ window.onload = () => {
      
   });
 
-  addclick.addEventListener('click', function(e){
+  addclick.addEventListener('click', (e) => {
     e.preventDefault();
      form.style.display = 'block';
      listings.style.display = 'none';
      maincontact.style.display = 'none';
   });
 
-  contactclick.addEventListener('click', function(e){
+  contactclick.addEventListener('click', (e) => {
     e.preventDefault();
      maincontact.style.display = 'block';
      listings.style.display = 'none';
      form.style.display = 'none';
   });
 
-  setInterval(()=>{
+  setInterval(() => {
     const date = document.querySelector('.date');
     const dt =DateTime.now(); 
   date.innerHTML = dt.toLocaleString(DateTime.DATETIME_FULL);
