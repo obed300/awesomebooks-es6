@@ -12,7 +12,6 @@ const addclick = document.querySelector('#add-click');
 const contactclick = document.querySelector('#contact-click');
 const maincontact = document.querySelector('.main-contact');
 
-// document.addEventListener('DOMContentLoaded', UI.displayBooks);
 
 window.onload = () => {
     UI.displayBooks();
@@ -65,4 +64,3 @@ window.onload = () => {
   date.innerHTML = dt.toLocaleString(DateTime.DATETIME_FULL);
 
   },10)
-  
